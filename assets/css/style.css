@@ -1,0 +1,59 @@
+p {
+	height: 150;
+}
+#title{
+	font-size: 50px;
+}
+.content {
+	min-height: calc(100vh - 70px);
+	width: auto;
+	color: red;
+	background-color: black;
+}
+.footer {
+	height: 150px;
+}
+#gifybtns {
+	padding: 10px;
+	margin: 2px;
+}
+.gif-state{
+	padding: 10px;
+	margin-left: 20px;
+}
+#rating{
+	padding: 1px;
+	margin-left: 75px;
+}
+.gif{
+	padding: 10px;
+	margin: 5px;
+	border-radius: 10%;
+	background-color: lightblue;
+	border-color: blue;
+	color: blue;
+}
+.submit{
+	padding: 15px;
+	margin: 5px;
+	border-radius: 10%;
+	background-color: blue;
+	color:white;
+	font-size: 80%;
+}
+.d-inline-block{
+	height: 250px;
+	width: 100%;
+}
+.row {
+	padding-left: 40px;
+}
+#search-string{
+	background-color: aquamarine;
+}
+@media only screen and (max-width: 980px) {  
+}
+@media only screen and (max-width: 768px) { 
+}
+@media only screen and (max-width: 640px) {
+}
